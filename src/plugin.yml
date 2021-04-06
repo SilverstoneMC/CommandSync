@@ -1,0 +1,15 @@
+name: CommandSync
+main: Mr_Krab.CommandSyncClient.Bukkit.CSC
+version: 2.7.0
+authors: [YoFuzzy3, JasonHorkles]
+description: Synchronize commands across servers.
+website: "https://github.com/JasonHorkles/CommandSync"
+
+commands:
+  sync:
+    description: Synchronize commands across servers.
+
+permissions:
+  sync.use:
+    description: Access to /sync.
+    default: op

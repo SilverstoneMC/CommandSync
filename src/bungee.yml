@@ -1,0 +1,5 @@
+name: CommandSync
+main: Mr_Krab.CommandSyncServer.Bungee.CSS
+version: 2.7.0
+authors: [YoFuzzy3, JasonHorkles]
+description: Synchronize commands across servers.
